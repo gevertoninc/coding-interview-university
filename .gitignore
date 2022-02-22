@@ -18,3 +18,9 @@ Thumbs.db
 
 # Sublime Files
 .sublime
+
+# Local history
+.history
+
+# Workspace
+*.code-workspace
